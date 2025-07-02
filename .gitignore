@@ -39,3 +39,42 @@
 
 # debug information files
 *.dwo
+
+# Visual Studio klasörleri
+.vs/
+*.vcxproj*
+*.sln
+
+# Visual Studio derleme dosyaları
+*.user
+*.opensdf
+*.sdf
+*.ipch
+*.cache
+*.log
+
+# Derleme çıktısı klasörleri
+Debug/
+Release/
+x64/
+x86/
+
+# CMake dosyaları (kullanıyorsan)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Diğer
+*.tlog
+*.idb
+*.ncb
+*.suo
+*.ilk
+*.pdb
+*.aps
+*.bak
+
+# MacOS/Linux artefaktları
+.DS_Store
+
