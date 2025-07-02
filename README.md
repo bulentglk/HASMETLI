@@ -118,6 +118,10 @@ Katkılara açık değildir.
 ![image](https://github.com/user-attachments/assets/f27b4f9f-b0a8-4c3f-837c-5cfbc9c124a8)
 ![image](https://github.com/user-attachments/assets/bb922209-26d6-460a-8e8c-eb60fd23515a)
 
+## Lisans
+
+Tüm hakları saklıdır. Bu proje sadece proje sahibi tarafından kullanılabilir. İzinsiz kopyalanamaz, dağıtılamaz veya değiştirilemez.
+
 
 
 
