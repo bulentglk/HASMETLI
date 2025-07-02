@@ -1,3 +1,22 @@
+# HASMETLI
+
+Basit 2D platform oyunu prototipi.  
+Menü, pause (duraklatma) ve temel hareket özellikleri (yürüme, zıplama) içerir.
+Daha da güncelleme almaya devam edecek.
+
+## Özellikler
+
+- Ana menü (başlatma)
+- ESC ile oyunu durdurma
+- Sağ/sol hareket
+- Zıplama
+- Basit skor sayacı
+- Can sistemi
+- Basit harita desteği
+
+## Kurulum
+
+1. Projeyi klonlayın:
 2. Visual Studio 2022 ile açın
 3. `main.cpp` derleyin ve çalıştırın
 
@@ -23,6 +42,4 @@ Katkılara açık değildir.
 
 ---
 
-## Lisans
 
-MIT Lisansı
